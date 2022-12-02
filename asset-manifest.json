@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-account-github-1/react-testing.git/static/css/main.0c5575fa.chunk.css",
+    "main.js": "/test-account-github-1/react-testing.git/static/js/main.c66d33e0.chunk.js",
+    "main.js.map": "/test-account-github-1/react-testing.git/static/js/main.c66d33e0.chunk.js.map",
+    "runtime-main.js": "/test-account-github-1/react-testing.git/static/js/runtime-main.9e40e63f.js",
+    "runtime-main.js.map": "/test-account-github-1/react-testing.git/static/js/runtime-main.9e40e63f.js.map",
+    "static/js/2.62d1fdee.chunk.js": "/test-account-github-1/react-testing.git/static/js/2.62d1fdee.chunk.js",
+    "static/js/2.62d1fdee.chunk.js.map": "/test-account-github-1/react-testing.git/static/js/2.62d1fdee.chunk.js.map",
+    "index.html": "/test-account-github-1/react-testing.git/index.html",
+    "precache-manifest.05b559e03f998606e15479818c300261.js": "/test-account-github-1/react-testing.git/precache-manifest.05b559e03f998606e15479818c300261.js",
+    "service-worker.js": "/test-account-github-1/react-testing.git/service-worker.js",
+    "static/css/main.0c5575fa.chunk.css.map": "/test-account-github-1/react-testing.git/static/css/main.0c5575fa.chunk.css.map",
+    "static/js/2.62d1fdee.chunk.js.LICENSE.txt": "/test-account-github-1/react-testing.git/static/js/2.62d1fdee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e40e63f.js",
+    "static/js/2.62d1fdee.chunk.js",
+    "static/css/main.0c5575fa.chunk.css",
+    "static/js/main.c66d33e0.chunk.js"
+  ]
+}
